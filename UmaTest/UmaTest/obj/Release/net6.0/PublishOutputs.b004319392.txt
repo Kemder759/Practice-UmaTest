@@ -1,0 +1,5 @@
+D:\ZiZuo\UmaTest.exe
+D:\ZiZuo\UmaTest.dll
+D:\ZiZuo\UmaTest.deps.json
+D:\ZiZuo\UmaTest.runtimeconfig.json
+D:\ZiZuo\UmaTest.pdb

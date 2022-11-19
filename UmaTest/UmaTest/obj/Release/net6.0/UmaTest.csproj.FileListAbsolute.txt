@@ -1,0 +1,15 @@
+D:\Zixue2\UmaTest\UmaTest\bin\Release\net6.0\UmaTest.exe
+D:\Zixue2\UmaTest\UmaTest\bin\Release\net6.0\UmaTest.deps.json
+D:\Zixue2\UmaTest\UmaTest\bin\Release\net6.0\UmaTest.runtimeconfig.json
+D:\Zixue2\UmaTest\UmaTest\bin\Release\net6.0\UmaTest.dll
+D:\Zixue2\UmaTest\UmaTest\bin\Release\net6.0\UmaTest.pdb
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.csproj.AssemblyReference.cache
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.AssemblyInfoInputs.cache
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.AssemblyInfo.cs
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.csproj.CoreCompileInputs.cache
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.dll
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\refint\UmaTest.dll
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.pdb
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\UmaTest.genruntimeconfig.cache
+D:\Zixue2\UmaTest\UmaTest\obj\Release\net6.0\ref\UmaTest.dll
